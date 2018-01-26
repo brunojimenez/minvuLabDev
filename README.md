@@ -1,1 +1,4 @@
 # minvuLabDev
+
+## Participantes
+Bruno Jiménez
